@@ -1,0 +1,34 @@
+﻿{
+	"name": "Placer Education Edition",
+	"version": "1.5.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"used-plugins": [
+		"Audio",
+		"Button",
+		"Keyboard",
+		"Mouse",
+		"NinePatch",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Tilemap",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"Bullet",
+		"EightDir",
+		"Platform",
+		"scrollto",
+		"solid"
+	]
+}
