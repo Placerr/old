@@ -1,0 +1,38 @@
+﻿{
+	"name": "Luna Story Mode",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 1366,
+	"viewport-height": 768,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Button",
+		"Keyboard",
+		"Mouse",
+		"NinePatch",
+		"Sprite",
+		"Spritefont2",
+		"Text",
+		"TiledBg",
+		"Tilemap"
+	],
+	"used-behaviors": [
+		"Anchor",
+		"Bullet",
+		"DragnDrop",
+		"EightDir",
+		"Fade",
+		"LOS",
+		"Pathfinding",
+		"Pin",
+		"Sin",
+		"scrollto",
+		"solid"
+	]
+}
